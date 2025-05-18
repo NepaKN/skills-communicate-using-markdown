@@ -20,8 +20,8 @@ Initialize empty Git repository in /Users/skills/Projects/recipe-repository/.git
 ```
 ###### *making a task list*
 __The Task List__
- - [ ] Turn on GitHub pages 
- - [ ] Outline my portfolio 
- - [ ] Introduce myself to the world
+ -- [ ] Turn on GitHub pages 
+ -- [ ] Outline my portfolio 
+ -- [ ] Introduce myself to the world
 
  
