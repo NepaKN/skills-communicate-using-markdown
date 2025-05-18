@@ -13,7 +13,7 @@
 
 ![Image of Sunflower](https://octodex.github.com/images/hula_loop_octodex03.gif)
 
-In this learning process, here I am practicing how to include the **codes** in the markdown
+In this learning process, here I am practicing how to include the **code examples** in the markdown
 ```
 $ git init
 Initialize empty Git repository in /Users/skills/Projects/recipe-repository/.git/
