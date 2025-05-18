@@ -10,3 +10,8 @@
 **Being here feels great!**
 
 ![Image of Sunflower](https://octodex.github.com/images/hula_loop_octodex03.gif)
+
+```
+$ git init
+Initialize empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
